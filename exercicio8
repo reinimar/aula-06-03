@@ -1,0 +1,13 @@
+let pares =0
+let impares =0
+
+for (let i = 0; i < 10; i++){
+    let numero = ("2");
+    if ( numero % 2 === 0){
+        pares++;
+    }else{
+        impares++;
+    }
+}
+console.log("quant.numeros pares: " + pares);
+console.log("quant.numeros impares: " + impares);

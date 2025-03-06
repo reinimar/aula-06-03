@@ -1,0 +1,7 @@
+let numeroi =20
+let numerof =35
+
+for(let i= numeroi; i< numerof; i+=2){
+    console.log("o intervalo é ", i);
+    
+}

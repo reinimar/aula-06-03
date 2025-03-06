@@ -1,0 +1,7 @@
+let numero1 = 35
+let numero2 = 89
+let soma = numero1 + numero2
+
+if(soma > 100){
+    console.log(" a soma e: " + soma)
+}
